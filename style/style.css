@@ -336,7 +336,7 @@ font-weight: 500;
         .contact{
             position: relative;
             z-index: 99;
-            margin-top: 40vh;
+                  margin-top: 22vh;
             left: 50px;
             box-shadow: 2px 10px 15px 7px rgba(12, 11, 11, 0.425);
             width: 400px;
